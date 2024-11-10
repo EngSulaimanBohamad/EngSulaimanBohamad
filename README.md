@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate developer hobbyist</h3>
+<h3 align="center">A passionate developer hobbyist that codes with security in mind.</h3>
 
 <p align="center">
     <a href="https://github.com/EngSulaimanBohamad" target="_blank">
@@ -19,9 +19,30 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EngSulaimanBohamad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180em" style="animation: fadeIn 2s ease-out;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSulaimanBohamad&layout=compact&theme=radical" alt="Top Languages" height="180em" style="animation: fadeIn 2s ease-out;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EngSulaimanBohamad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSulaimanBohamad&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
+
+---
+
+### 🛡️ Cybersecurity
+
+#### Binary Decompiling
+![dotPeek](https://img.shields.io/badge/-dotPeek-0D588D?logo=jetbrains&logoColor=white&style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/-x64dbg-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/-Ghidra-F20000?logo=ghidra&logoColor=white&style=for-the-badge)
+![Binwalk](https://img.shields.io/badge/-Binwalk-4E9A06?style=for-the-badge)
+
+#### Networking
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+
+#### Web Security
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white&style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/-SQLmap-000000?style=for-the-badge)
+
+#### Memory Analysis
+![Autopsy](https://img.shields.io/badge/-Autopsy-2E8B57?style=for-the-badge)
+![OS Forensics](https://img.shields.io/badge/-OS%20Forensics-0E1015?style=for-the-badge)
 
 ---
 
@@ -105,4 +126,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?logo=windows&logoColor=white&style=for-the-badge)
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
-

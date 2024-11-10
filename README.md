@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A passionate developer hobbyist</h3>
 
 <p align="center">
@@ -8,11 +8,21 @@
 </p>
 
 ---
+
+## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50px"> Currently Learning
+- API authentication and authorization
+- API communication protocols
+- Microservices architecture
+- Securing and hardening web applications
+
+---
+
 ### 📈 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EngSulaimanBohamad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSulaimanBohamad&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EngSulaimanBohamad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180em" style="animation: fadeIn 2s ease-out;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSulaimanBohamad&layout=compact&theme=radical" alt="Top Languages" height="180em" style="animation: fadeIn 2s ease-out;"/>
 </p>
+
 ---
 
 ### 🛠 Languages:
@@ -96,13 +106,9 @@
 ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?logo=windows&logoColor=white&style=for-the-badge)
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
 
----
-## Currently Learning
-- API authentication and authorization
-- API communication protocols
-- Microservices architecture
-- Securing and hardening web applications
-
-
-
-
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>

@@ -106,9 +106,3 @@
 ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?logo=windows&logoColor=white&style=for-the-badge)
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>

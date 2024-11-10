@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">A passionate developer and system engineer</h3>
+<h3 align="center">A passionate developer hobbyist</h3>
 
 <p align="center">
     <a href="https://github.com/EngSulaimanBohamad" target="_blank">
@@ -100,6 +100,7 @@
 - API authentication and authorization
 - API communication protocols
 - Microservices architecture
+- Securing and hardening web applications
 
 
 

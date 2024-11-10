@@ -8,7 +8,12 @@
 </p>
 
 ---
-
+### 📈 GitHub Stats:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EngSulaimanBohamad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSulaimanBohamad&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+</p>
+---
 ### 🛠 Languages:
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -95,12 +100,7 @@
 - API authentication and authorization
 - API communication protocols
 - Microservices architecture
----
-### 📈 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EngSulaimanBohamad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSulaimanBohamad&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
-</p>
+
 
 
 
